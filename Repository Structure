@@ -1,0 +1,8 @@
+Repository Structure
+
+medical-delivery-drone-simulation/
+├── drone.py             # Main simulation and genetic algorithm code
+├── Game.py              # Graphical environment (if separate)
+├── README.md            # Project documentation
+└── assets/
+    └── index.png        # Drone sprite image
