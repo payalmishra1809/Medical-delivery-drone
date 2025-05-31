@@ -26,18 +26,13 @@ This project simulates a drone navigating through obstacles to deliver medical s
 1. Clone the repository:
 git clone https://github.com/yourusername/medical-delivery-drone-simulation.git
 
-text
 2. Install dependencies:
 pip install pygame numpy
-
-text
 
 ## Usage
 
 Run the simulation:
 python drone.py
-
-text
 
 ## File Structure
 
@@ -48,7 +43,6 @@ medical-delivery-drone-simulation/
 └── assets/
 └── index.png
 
-text
 
 ## License
 
